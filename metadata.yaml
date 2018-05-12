@@ -1,0 +1,38 @@
+_repo: The-Ranch-Girls-and-Their-Heart-s-Desire_37271
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Chambers, Wilson V.
+    gutenberg_agent_id: '37323'
+    url: http://www.gutenberg.org/2009/agents/37323
+covers:
+- cover_type: archival
+  image_path: 37271-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Vandercook, Margaret
+    birthdate: 1876
+    gutenberg_agent_id: '2838'
+    url: http://www.gutenberg.org/2009/agents/2838
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
+description: ''
+gutenberg_issued: '2011-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37271'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wyoming -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Ranch life -- Juvenile fiction'
+- !lcsh 'Women in politics -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Young women -- Social conditions -- Juvenile fiction'
+- !lcsh 'Aversion -- Juvenile fiction'
+- !lcsh 'Horsemanship -- Juvenile fiction'
+- !lcsh 'Cowgirls -- Juvenile fiction'
+title: The Ranch Girls and Their Heart's Desire
+url: http://www.gutenberg.org/ebooks/37271
