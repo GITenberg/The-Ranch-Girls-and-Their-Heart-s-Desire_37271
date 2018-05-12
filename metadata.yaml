@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2838
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37271#The-Ranch-Girls-and-Their-Heart-s-Desire
 gutenberg_issued: '2011-08-30'
 gutenberg_type: Text
 identifiers:
